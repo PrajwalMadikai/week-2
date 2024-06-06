@@ -1,0 +1,138 @@
+/* .im{
+    height: 500px;
+} */
+#bn{
+    width: 130px;
+    background-color: #0c0b31;
+    color: white;
+    font-weight: 800;
+    border-radius: 20px;
+}
+#bn1{
+    width: 230px;
+    background-color:#523be4;
+    color: white;
+    font-weight: 800;
+    border-radius: 20px;
+}
+#bop{
+    width: 230px;
+    background-color:#2b1b810d;
+    color: #0c0b31;
+    font-weight: 900;
+    border-radius: 20px;
+}
+ul{
+    list-style-type: none;
+    font-size: 17px;
+    font-weight: 400;
+}
+.hoi{
+    height: 35px;
+}
+.hoi1{
+    padding-left: 430px;
+    height: 35px;
+}
+.anay{
+    height: 30px;
+    margin: 10px;
+}
+.ab{
+    height: 30px;
+    
+}
+.ab img{
+    filter: invert(1);
+}
+.yi p{
+    padding-left: 10px;
+    font-size: 13px;
+}
+.oi p{
+    font-size: 14px;
+}
+.card-body{
+    margin-left: 40px;
+}
+.ald h2{
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+.er{
+    padding-left: 20px;
+}
+#h1{
+    font-size: 78px;
+}
+.ani p{
+    font-size: 25px;
+}
+.lk{
+    font-size: 17px;
+}
+.lk1{
+    color: #523be4;
+}
+.dollar{
+    font-size: 29px;
+    color: blue;
+    font-weight: 700;
+}
+.fbtn{
+    border-radius: 20px;
+    width: 60px;
+}
+#h4{
+    font-size: 25px;
+    font-weight: 500;
+}
+.bo{
+    width: 230px;
+    background-color:#334;
+    color: white;
+    font-weight: 800;
+    border-radius: 20px;
+}
+@media(max-width:912px)
+{
+ .ab img{
+    display: flex;
+    justify-content: flex-end;
+ }
+}
+@media  (min-width:992px) {
+    .ani h1{
+        padding-left :70px;
+        font-size: 68px;
+    }
+    .ani p{
+        padding-left: 50px;
+    }
+    .card1{
+        margin-top: 80px;
+    }
+    .last{
+        height: 500px;
+    }
+    #h1{
+        font-size: 68px;
+    }
+}
+@media (max-width:576px){
+    #h1{
+        font-size: 30px;
+    }
+    .ani p{
+        font-size: 25PX;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    /* .hoi{
+        margin-right: 390px;
+    } */
+    .co{
+        display: flex;
+        justify-content: flex-end;
+    }
+}
